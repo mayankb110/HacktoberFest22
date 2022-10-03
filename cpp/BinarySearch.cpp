@@ -41,3 +41,4 @@ int main(void)
 		: cout << "Element is present at index " << result;
 	return 0;
 }
+// This code is contributed by Noor
