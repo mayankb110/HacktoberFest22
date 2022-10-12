@@ -34,6 +34,9 @@ int frog(int i){
     return (dp[i] = cost);
 }
 
+//name - mehak gupta
+//email - mehakmg542@gmail.com
+
 void solve(){
     memset(dp, -1, sizeof(dp));
     int n; cin >> n;
